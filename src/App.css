@@ -1,7 +1,15 @@
 .App {
   text-align: center;
+  background: #160734;
+  color: #fff;
+  background-image: url(../src/images/bg/bg.png);
+  background-size: 100%;
+  background-repeat: no-repeat;
 }
 
+a {
+  color: #fff;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
