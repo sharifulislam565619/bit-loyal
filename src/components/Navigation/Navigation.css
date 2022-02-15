@@ -20,10 +20,12 @@ li:nth-child(5) ::after {
   border: 1px solid #18a0fb;
 }
 .wallet {
+  width: 226px;
+  height: 52px;
   background-color: #322854;
-  padding: 14px 28px;
+  padding: 9px 28px;
   border-radius: 10px;
-  margin-left: 15px;
+  margin: auto;
 }
 
 .wallet a {

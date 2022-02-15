@@ -1,7 +1,7 @@
 .App {
   text-align: center;
   background: #160734;
-  color: #fff;
+  /* color: #fff; */
   background-image: url(../src/images/bg/bg.png);
   background-size: 100%;
   background-repeat: no-repeat;

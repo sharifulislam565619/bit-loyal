@@ -37,7 +37,7 @@ const Navigation = () => {
                         <img src={icon3} alt="" />
                      </li>
 
-                     <div className='wallet'>
+                     <div className='wallet ms-2'>
                         <a href="#">Wallet Connection</a>
                         <img src={img4} alt="" />
                      </div>
