@@ -1,0 +1,14 @@
+.faq h1 {
+  font-weight: 800;
+  font-size: 144px;
+  color: #fff;
+}
+
+.faq h2 {
+  font-weight: bold;
+  font-size: 36px;
+}
+.faq p {
+  font-weight: bold;
+  font-size: 21px;
+}

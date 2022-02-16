@@ -34,3 +34,15 @@
 .social-icon ul li a {
   text-decoration: none;
 }
+
+.footerBottom li ::after {
+  content: url(../../images/icon/start8.png);
+  margin-left: 20px;
+  margin-right: 20px;
+}
+li:nth-child(5) ::after {
+  display: none;
+}
+.footerBottom {
+  border-top: 1px solid #473e6b;
+}

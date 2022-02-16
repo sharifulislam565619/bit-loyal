@@ -20,6 +20,25 @@ const Footer = () => {
             <p><a style={{ opacity: '0.5' }} href='#'>Terms of Service</a></p>
             <p>  <a style={{ opacity: '0.3' }} href='#'>Copyright @ Bit Loyal 2022</a></p>
          </div>
+         <div className="footerBottom">
+            <ul className="py-3 navbar-nav d-flex align-items-center flex-row justify-content-center mb-2 mb-lg-0">
+               <li className="nav-item">
+                  <a className="nav-link " aria-current="page" href="#">About us</a>
+               </li>
+               <li className="nav-item">
+                  <a className="nav-link active" rel='' aria-current="page" href="#">Tokenomics</a>
+               </li>
+               <li className="nav-item">
+                  <a className="nav-link active" rel='no' aria-current="page" href="#">Roadmap</a>
+               </li>
+               <li className="nav-item">
+                  <a className="nav-link active" rel='no' aria-current="page" href="#">FAQs</a>
+               </li>
+               <li className="nav-item">
+                  <a className="nav-link active" rel='no' aria-current="page" href="#">Contacts</a>
+               </li>
+            </ul>
+         </div>
       </div >
    );
 };
