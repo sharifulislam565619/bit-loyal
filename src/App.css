@@ -1,6 +1,7 @@
 .App {
   text-align: center;
   background: #160734;
+  font-family: "Georama", sans-serif;
 }
 
 a {
@@ -30,4 +31,8 @@ a {
 
 .App-link {
   color: #61dafb;
+}
+
+.privacy-link a {
+  text-decoration: none;
 }

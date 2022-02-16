@@ -1,0 +1,36 @@
+#footer {
+  text-align: center;
+}
+
+#footer h1 {
+  font-family: Georama;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 96px;
+  line-height: 115px;
+  letter-spacing: 0.02em;
+  color: #ffffff;
+}
+.social-icon i {
+  color: #1f1043;
+  background-color: white;
+  width: 120px;
+  height: 120px;
+  margin-left: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  font-size: 55px;
+  text-align: center;
+}
+
+.social-icon ul {
+  display: flex;
+}
+.social-icon li {
+  list-style: none;
+}
+.social-icon ul li a {
+  text-decoration: none;
+}
