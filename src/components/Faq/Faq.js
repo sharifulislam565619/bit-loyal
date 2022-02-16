@@ -49,7 +49,7 @@ const Faq = () => {
       }
    ]
    return (
-      <div className='faq my-5'>
+      <div className='container faq my-5'>
          <div className="row">
             <div className="col-md-6 col-sm-12 d-flex justify-content-center align-items-center">
                <h1>FAQ</h1>
