@@ -10,6 +10,8 @@ import './Banner.css';
 const Banner = () => {
    return (
       <div>
+         <h1 className='banner-title'>XXX is</h1>
+         <h2 className='banner-title1'>XXXXXXXX Platform</h2>
          <img className='banner-img' src={img} alt="" />
          <img className='banner-img1' src={img1} alt="" />
          <img className='banner-img2' src={img2} alt="" />

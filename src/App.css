@@ -8,6 +8,9 @@ a {
   color: #fff;
   text-decoration: none;
 }
+a:hover {
+  color: #fff !important;
+}
 li {
   list-style: none;
 }

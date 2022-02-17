@@ -11,4 +11,19 @@
 .faq p {
   font-weight: bold;
   font-size: 21px;
+  color: white;
+}
+
+.accordion-body {
+  color: white;
+}
+
+.accordion-button {
+  background-color: transparent !important;
+}
+.accordion-header {
+  background-color: transparent;
+}
+.accordion-item {
+  background-color: transparent;
 }

@@ -5,6 +5,29 @@
   padding-bottom: 50px;
 }
 
+.banner-title {
+  position: absolute;
+  width: 452px;
+  height: 172px;
+  left: 340px;
+  top: 218px;
+  font-weight: 800;
+  font-size: 144px;
+  line-height: 172px;
+  color: #fff;
+}
+.banner-title1 {
+  position: absolute;
+  width: 982px;
+  left: 160px;
+  top: 380px;
+  font-weight: 800;
+  font-size: 96px;
+  line-height: 115px;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: #ff14b1;
+}
 .whitelist p {
   color: #fff;
   font-size: 20px;

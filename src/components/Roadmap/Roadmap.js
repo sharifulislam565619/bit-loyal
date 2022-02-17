@@ -13,7 +13,7 @@ const Roadmap = () => {
    return (
       <div className='roadmap container my-5 py-5'>
          <div className="row">
-            <div className="col-md-6 col-sm-12 px-5">
+            <div className="roadmap-details col-md-6 col-sm-12 px-5">
                <h1>Roadmap</h1>
                <p><small>This roadmap outlines our goals and where we want to take ROYAL. We have a lot of ideas and concepts that we are working on. </small></p>
 
@@ -54,10 +54,10 @@ const Roadmap = () => {
             </div>
             <div className="col-md-6 col-sm-12">
                <div className='row'>
-                  <div className="col-md-6">
+                  <div className="col-md-6 col-sm-3">
                      <a href="#"><img src={img1} alt="img" /></a>
                   </div>
-                  <div className="col-md-6">
+                  <div className="col-md-6 col-sm-3">
                      <a href="#"><img src={img2} alt="img" /></a>
                   </div>
                </div>
